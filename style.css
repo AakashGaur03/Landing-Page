@@ -1,0 +1,134 @@
+body {
+  background-image: url(Image/backgroundimage.jpg);
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.backgroundColor {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.backgroundColor2 {
+  background-color: rgba(15, 29, 32, 0.76);
+}
+.logodiv {
+  padding: 60px;
+  height: 200px;
+}
+.logoicon {
+  background-color: #333436 !important;
+  color: white;
+  padding: 13px;
+  border-radius: 27px;
+}
+.navdiv {
+  height: 120px;
+}
+.zindex
+{
+  z-index: 1;
+}
+.navitemswidth {
+  width: 60vw;
+}
+@media screen and (max-width: 991px) {
+  .navitemswidth{
+    width: auto;
+  }
+}
+
+.navitems:hover {
+  border-top: 0.5px solid black;
+  cursor: pointer;
+}
+.active
+{
+  border-top: 0.5px solid black;
+}
+
+.customfont {
+  font-size: 3.5rem;
+}
+.lineheight {
+  line-height: 1.7;
+}
+.customborderradius {
+  border-radius: 10px;
+}
+.customborder {
+  border: 1px solid white;
+}
+.color {
+  color: #717070;
+}
+.custommargintop {
+  margin-top: 100px;
+}
+.custommargintop2 {
+  margin-top: 150px;
+}
+.custommargintop3 {
+  margin-top: 80px;
+}
+.w-66 {
+  max-width: 66%;
+}
+
+@media screen and (max-width: 440px) {
+  .logodiv {
+    padding: 3px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .w-66 {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .imgclass {
+    width: 50%;
+    height: 50%;
+  }
+  .imgclass2 {
+    width: 80%;
+  }
+
+  .backgroundcontact1
+  {
+    background-color:rgba(15, 29, 32, 0.76); ;
+  }
+  .backgroundcontact2
+  {
+    border: 0;
+    background-color: transparent !important;
+  }
+}
+
+.backgroundcoffee {
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-image: url(Image/coffee-glass.jpg);
+}
+.backgroundmountain
+{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-image: url(Image/ice-mountain.jpg);
+}
+.backgroundcontactpeople
+{
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-image: url(Image/contactpeople.jpg);
+}
+
+.boderservices:hover {
+  transition: 1s;
+  border: 1px solid white;
+}
+
+.active2
+{
+  border: 1px solid white;
+}
