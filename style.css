@@ -33,6 +33,10 @@ body {
   .navitemswidth{
     width: auto;
   }
+  .custompadding
+  {
+    padding: 0 !important;
+  }
 }
 
 .navitems:hover {
@@ -83,6 +87,10 @@ body {
   .w-66 {
     max-width: 100%;
   }
+}
+.custompadding
+{
+  padding: 1.5rem;
 }
 
 @media screen and (max-width: 767px) {
