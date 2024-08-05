@@ -4,7 +4,7 @@ Welcome to our Responsive AJAX Landing Page project! 🚀 This project showcases
 
 ## Live Demo
 
-Check out the live website: [Responsive AJAX Landing Page](https://landingpage-byaakashgaur.000webhostapp.com/)
+Check out the live website: [Responsive AJAX Landing Page](https://aakashgaur03.github.io/Landing-Page/)
 
 ## Technologies Used
 
