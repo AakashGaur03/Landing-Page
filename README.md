@@ -4,7 +4,14 @@ Welcome to our Responsive AJAX Landing Page project! 🚀 This project showcases
 
 ## Live Demo
 
-Check out the live website: [Responsive AJAX Landing Page](https://aakashgaur03.github.io/Landing-Page/)
+Check out the live website: [Landing Page](https://aakashgaur03.github.io/Landing-Page/)
+
+## Images
+![Image 1](./Image/Image1.png)
+
+![Image 2](./Image/Image2.png)
+
+![Image 3](./Image/Image3.png)
 
 ## Technologies Used
 
